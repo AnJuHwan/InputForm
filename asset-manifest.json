@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InputForm/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/InputForm/static/js/main.cc47bf65.chunk.js",
+    "main.js.map": "/InputForm/static/js/main.cc47bf65.chunk.js.map",
+    "runtime-main.js": "/InputForm/static/js/runtime-main.7e2cb6a8.js",
+    "runtime-main.js.map": "/InputForm/static/js/runtime-main.7e2cb6a8.js.map",
+    "static/js/2.4bc100a2.chunk.js": "/InputForm/static/js/2.4bc100a2.chunk.js",
+    "static/js/2.4bc100a2.chunk.js.map": "/InputForm/static/js/2.4bc100a2.chunk.js.map",
+    "index.html": "/InputForm/index.html",
+    "precache-manifest.bb1b7af3ac2d0ba1b8a8593114feb49b.js": "/InputForm/precache-manifest.bb1b7af3ac2d0ba1b8a8593114feb49b.js",
+    "service-worker.js": "/InputForm/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/InputForm/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.4bc100a2.chunk.js.LICENSE.txt": "/InputForm/static/js/2.4bc100a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e2cb6a8.js",
+    "static/js/2.4bc100a2.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.cc47bf65.chunk.js"
+  ]
+}
